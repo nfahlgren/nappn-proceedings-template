@@ -1,0 +1,42 @@
+NAPPN Abstract Submission Instructions
+
+
+To be considered for a Lightning talk (also called Fast-Forward Talk) for the 2023 NAPPN meeting, the submission of an abstract no longer than 250 words is required before October 3rd, 2022, but is not required at registration. All live Fast-Forward talks will be in-person so you must plan to attend the meeting in person if you wish to give a live Fast-Forward talk. Abstracts will be published as a collection on ESSOAR/Authorea (https://www.authorea.com/inst/26179). The required template for NAPPN Abstracts is here: https://github.com/nfahlgren/nappn-proceedings-template.
+
+
+For question email mgehan@danforthcenter.org
+
+
+Submission Process
+
+
+* Go to Authorea: https://www.authorea.com/ 
+* Select ‘Get Started’ from the taskbar
+* Sign up for an account
+* Click the ‘+’ from the taskbar to upload an Abstract using the appropriate templates: Latex and Word templates are available here: https://github.com/nfahlgren/nappn-proceedings-template. Please remember to convert to a PDF for upload
+* Upload a draft as a PDF (there are other file options but highly recommend PDFs)
+* Authorea will scrape the PDF for Author information and Keywords, please correct those as necessary, it will likely need some correction.
+* To submit a draft for review, select the edit document button, then click the ‘Publish’ button in the task bar.
+* In the ‘Submit Your Document’ box, hit next to move your private draft into a community.
+* Submit to the ‘NAPPN 2023 Abstracts’ Collection
+* Select your license
+* Hit submit
+* The abstracts will then go into moderation for approval
+
+
+FAQ
+
+
+* There have been questions in previous years about submitting previously submitted work. In this case we recommend submitting an Abstract of the work (see abstract instructions) and citing the previously submitted work in the abstract. This way there are not repeated DOIs for the same papers.
+* Full Talks - Full talks will be selected from conference papers and abstracts. Some priority will be given to conference paper submissions. 
+* Live Fast Forward Talks -  Fast Forward talks will be selected from abstracts and conference papers. 
+* Virtual Fast Forward Talks- Live Talks and Live Fast Forward Talks will be selected from Abstracts. If you plan to attend the meeting Virtually or are not selected for a live Fast-Forward talk we will have the option of pre-recording a Fast Forward talk that would be available as bonus material on Whova and the NAPPN youtube channel. 
+* Posters- If you want to have a poster at the NAPPN meeting please minimally submit an abstract and make sure you indicate you are planning to bring a poster when you register for the meeting.
+
+
+Review Process
+
+
+* Abstracts submitted by October 3rd, 2022 will be considered for lightning/Fast-Forward talks spots.
+* Speakers will be notified and will be given a cut off date to register for the meeting.
+* Abstracts will be assessed for the importance and relevance of the topic to the field of plant phenomics, the quality of research, and quality of the manuscript preparation.

@@ -1,0 +1,61 @@
+NAPPN Conference Proceedings
+
+
+The NAPPN and the NAPPN Annual Conference Program Committees are excited for the second year of conference proceedings for the 2023 NAPPN Annual meeting. To be considered for a talk for the 2023 NAPPN meeting, the submission of a conference proceeding is required before October 3rd, 2022, but is not required at registration. Papers should be no longer than 4 pages without references. For the hybrid NAPPN Annual Conference all  live talks will be in-person. The conference proceedings will be reviewed and published as a collection on ESSOAR/Authorea (https://www.authorea.com/inst/26178) as a reviewed proceeding paper. The required template for NAPPN Conference Papers is here: https://github.com/nfahlgren/nappn-proceedings-template.
+
+
+For question email mgehan@danforthcenter.org
+
+
+Benefits of Conference Proceedings
+
+
+* Gain visibility for your research as part of a collection of preprints
+* Publish preliminary findings, works in progress, inconclusive, and/or negative results
+
+
+Submission Process
+
+
+* Go to Authorea (https://www.authorea.com/)
+* Select ‘Get Started’ from the taskbar
+* Sign up for an account
+* Click the ‘+’ from the taskbar to upload a Conference Paper using the appropriate templates: Latex and Word templates are available here: https://github.com/nfahlgren/nappn-proceedings-template. Please remember to convert to a PDF for upload.
+* Upload a draft as a PDF (there are other file options but highly recommend PDFs)
+* Authorea will scrape the PDF for Author information and Keywords, please correct those as necessary, it will likely need correction.
+* To submit a draft for review, select the edit document button, then click the ‘Publish’ button in the task bar.
+* In the ‘Submit Your Document’ box, hit next to move your private draft into a community.
+* Submit to the ‘NAPPN 2023 Conference Papers’ Collection
+* Select your license
+* Hit submit
+* The paper will then go into moderation for approval
+
+
+FAQ
+
+
+* There have been questions in previous years about submitting previously submitted work. In this case we recommend submitting an Abstract of the work (see abstract instructions) and citing the previously submitted work in the abstract. This way there are not repeated DOIs for the same papers.
+* Full Talks - Full talks will be selected from conference papers and abstracts. Some priority will be given to conference paper submissions. 
+* Live Fast Forward Talks -  Fast Forward talks will be selected from abstracts and conference papers. 
+* Virtual Fast Forward Talks- Live Talks and Live Fast Forward Talks will be selected from Abstracts. If you plan to attend the meeting Virtually or are not selected for a live Fast-Forward talk we will have the option of pre-recording a Fast Forward talk that would be available as bonus material on Whova and the NAPPN youtube channel. 
+* Posters- If you want to have a poster at the NAPPN meeting please make sure you indicate you are planning to bring a poster when you register for the meeting.
+
+
+Review Process
+
+
+* Conference papers submitted by October 3rd, 2022 will be considered for in-person speaking spots at the 2023 NAPPN Annual Conference in St. Louis, MO.
+* Papers will be assessed for the importance and relevance of the topic to the field of plant phenomics, the quality of research, and quality of the manuscript preparation. 
+* Speakers will be notified and will be given a cut off date to register for the meeting.
+* Anonymous reviews will be published along with papers.
+* The authors’ response to the review comments will be published 
+
+
+Timeline (What to Expect)
+
+
+1. Conference papers to be considered for speaking spots are due October 3rd, 2022
+2. Conference committee will select speakers from submitted conference papers.
+3. Speakers will be notified and will be given a cut off date to register for the meeting.
+4. Conference paper reviews will be sent to speakers mid December 2022
+5. Response to reviewer comments and revisions due January 31, 2023
